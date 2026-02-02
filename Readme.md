@@ -374,7 +374,14 @@ This alignment bridges **100 enterprise-grade YouTube case studies** with **350+
       100 Case Studies
       (Real incidents)
 ```
+## 📌 **SUMMARY: 100 CASE STUDIES → 350+ LABS**
 
+- **30 Cybersecurity** case studies → **~120 aligned labs**
+- **30 Cloud Architecture** case studies → **~80 aligned labs** (design + exploitation)
+- **20 DevOps/K8s/Terraform** case studies → **~40 aligned labs**
+- **20 AI/MLOps/Career** case studies → **~25 aligned labs** (+ theory components)
+
+**Total Recommended Lab Rotation:** ~265 labs directly mapped + 85 miscellaneous labs = **350+ comprehensive coverage**
 ---
 
 Would you like me to expand on any specific section or create detailed **YouTube scripts** for the top 10 cybersecurity case studies? 🎬
